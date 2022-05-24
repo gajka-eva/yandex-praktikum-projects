@@ -1,1 +1,2 @@
-
+git rm banking-data-analysis.txt
+git commit -m "remove banking-data-analysis.txt"

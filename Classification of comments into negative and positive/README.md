@@ -7,5 +7,5 @@
 ### _Используемые в работе библиотеки:_
 - pandas,
 - numpy,
-- nltk,
-- scikit-learn (sklearn): модели LogisticRegression, DecisionTreeClassifier)
+- пакет библиотек nltk,
+- scikit-learn (sklearn): модели LogisticRegression, DecisionTreeClassifier

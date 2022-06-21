@@ -8,4 +8,5 @@
 - pandas,
 - numpy,
 - пакет библиотек nltk,
+- re,
 - scikit-learn (sklearn): модели LogisticRegression, DecisionTreeClassifier
